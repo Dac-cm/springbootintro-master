@@ -1,2 +1,2 @@
-# springbootintro-master
-Construire l’application Spring MVC, puis votre calculatrice
+# Laboratoir 2 - springbootintro-master
+Construire une calculatrice sur Spring MVC
