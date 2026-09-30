@@ -1,2 +1,2 @@
-# Laboratoir 2 - springbootintro-master
+# Laboratoire 2 - springbootintro-master
 Construire une calculatrice sur Spring MVC
